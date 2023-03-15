@@ -1,0 +1,52 @@
+{
+  "name": "NGRID",
+  "private": true,
+  "scripts": {
+    "dev": "gulp"
+  },
+  "devDependencies": {
+    "aos": "^2.3.4",
+    "foundation-sites": "^6.7.5",
+    "gulp": "^4.0.2",
+    "lodash": "^4.17.21",
+    "sass": "^1.55.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "autoprefixer": "^10.4.13",
+    "browser-sync": "^2.27.10",
+    "color-support": "^1.1.3",
+    "crypto": "^1.0.1",
+    "deepmerge": "^4.2.2",
+    "del": "=6.0.0",
+    "dependency-graph": "^0.11.0",
+    "dotenv": "^16.0.3",
+    "fetch-no-cors": "^1.0.13",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-debug": "^4.0.0",
+    "gulp-esbuild": "^0.10.7",
+    "gulp-filter": "^7.0.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-sass-glob-use-forward": "^0.1.3",
+    "gulplog": "^2.0.1",
+    "jquery": "^3.6.2",
+    "micromatch": "^4.0.5",
+    "node-sass-json-importer": "^4.3.0",
+    "path": "^0.12.7",
+    "postcss": "^8.4.19",
+    "postcss-scss": "^4.0.5",
+    "process": "^0.11.10",
+    "through2": "^4.0.2",
+    "to-absolute-glob": "^3.0.0",
+    "util": "^0.12.5",
+    "vinyl": "^3.0.0"
+  }
+}
